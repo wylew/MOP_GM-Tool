@@ -1,0 +1,8 @@
+## Interface: 50400
+## Title: |cFFFFD700GM Setup Tool|r
+## Notes: Automated GM setup tool for MoP 5.4.x private servers. Teaches professions, skills, mounts and reputations via throttled command queue.
+## Author: GMSetupTool
+## Version: 1.0.0
+## SavedVariables: GMSetupToolDB
+
+GMSetupTool.lua
