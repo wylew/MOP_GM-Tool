@@ -55,7 +55,7 @@ local GROUPS = {
     { label="Riding Skills",          color={1,0.8,0.1},
       desc="All riding ranks + skill cap + Pandaria flying + Cloud Serpent",
       cmds={ ".learn 33388",".learn 33391",".learn 34090",".learn 34091",
-             ".learn 90265",".learn 115913",".learn 130487",".setskill 762 600 600" } },
+             ".learn 90265",".learn 115913",".learn 130487",".learn 90267",".learn 54197",".setskill 762 600 600" } },
     { label="Primary Professions",    color={0.4,0.8,1},
       desc="Learn+max+recipes: Alchemy, BS, Enchant, Eng, Inscription, JC, LW, Tailoring",
       cmds={ ".learn 2259",".setskill 171 600 600",".learn all_recipes alchemy",
@@ -155,7 +155,7 @@ local GROUPS = {
              ".mod rep 1359 42999",".mod rep 1380 42999",".mod rep 1358 42999",".mod rep 1279 42999",
              ".mod rep 1277 42999",".mod rep 1278 42999",".mod rep 1283 42999",".mod rep 1280 42999",
              ".mod rep 1281 42999",".mod rep 1282 42999",".mod rep 1284 42999",".mod rep 1285 42999",
-             ".mod rep 1216 42999" } },  -- Shang Xi's Academy
+             ".mod rep 1216 42999",".mod rep 1134 42999" } },  -- Shang Xi's Academy
     { label="Useful Spells",           color={0.9,0.5,1},
       desc="Useful utility spells: Goblin Grappling Hook, Heroic Leap, Shoot, Throw",
       cmds={ ".learn 46642", ".learn 32028", ".learn 74503", ".learn 44776", ".additem 5976", ".additem 96931", ".additem 34334", ".additem 19019", ".learn 107516" } },
